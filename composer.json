@@ -1,5 +1,5 @@
 {
-  "name": "lightningsale/lnd-client",
+  "name": "inpay/lnd-client",
   "description": "A LND REST Client",
   "type": "library",
   "license": "MIT",
