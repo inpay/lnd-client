@@ -7,7 +7,7 @@
 
 ### How to use:
 
-`composer require lightningsale/lnd-client`
+`composer require inpay/lnd-client`
 
 ```php
 <?php
